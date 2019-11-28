@@ -13,3 +13,4 @@ To run:
 
 You're welcome..
 
+![](https://raw.githubusercontent.com/cfelde/KREPL/master/resources/krepl.gif)
